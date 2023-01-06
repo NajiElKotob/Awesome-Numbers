@@ -12,3 +12,4 @@
 * 8128: This number is known as the Sophie Germain prime, and it is the smallest number that can be expressed as the sum of two squares in five different ways: 8128 = 90^2 + 60^2 = 96^2 + 48^2 = 98^2 + 42^2 = 102^2 + 36^2 = 108^2 + 24^2.
 * 10648: This number is known as the Taxicab number, and it is the smallest integer that can be expressed as the sum of two cubes in three different ways: 10648 = 104^3 + 24^3 = 110^3 + 9^3 = 121^3 + 1^3.
 * 20736: This number is known as the Ramanujan number, and it is the smallest integer that can be expressed as the sum of two cubes in four different ways: 20736 = 162^3 + 36^3 = 170^3 + 15^3 = 180^3 + 6^3 = 192^3 + 1^3.
+* 2520: This number is known as the least common multiple of the first ten positive integers, and it is the smallest integer that is divisible by all of the integers from 1 to 10.
