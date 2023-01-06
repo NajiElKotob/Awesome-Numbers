@@ -9,3 +9,4 @@
 * 4104: This number is known as the Brocard number, and it is the smallest integer that can be expressed as the sum of two squares in two different ways: 4104 = 66^2 + 88^2 = 94^2 + 32^2.
 * 5040: This number is known as the Euler number, and it is the smallest integer that can be expressed as the sum of two squares in three different ways: 5040 = 70^2 + 54^2 = 72^2 + 30^2 = 80^2 + 24^2.
 * 720720: This number is known as the Schutz number, and it is the smallest integer that can be expressed as the sum of two squares in four different ways: 720720 = 880^2 + 464^2 = 936^2 + 168^2 = 968^2 + 120^2 = 1008^2 + 64^2.
+* 8128: This number is known as the Sophie Germain prime, and it is the smallest number that can be expressed as the sum of two squares in five different ways: 8128 = 90^2 + 60^2 = 96^2 + 48^2 = 98^2 + 42^2 = 102^2 + 36^2 = 108^2 + 24^2.
