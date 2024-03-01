@@ -21,4 +21,5 @@
 * 2.71828 Euler's Number (e) [What's so special about Euler's number e?](https://www.youtube.com/watch?v=m2MIpDrF7Es)
 
 -----
+* Divisibility by 2: A number is divisible by 2 if its last digit is even (0, 2, 4, 6, or 8).
 * If the sum of the digits of a number is divisible by 9, then the number itself is divisible by 9. This rule is a useful shortcut to determine divisibility by 9. For example, if you have a number like 162, the sum of its digits is 1 + 6 + 2 = 9. Since 9 is divisible by 9, the number 162 is also divisible by 9. 
