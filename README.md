@@ -26,4 +26,5 @@
 * Divisibility by 4: A number is divisible by 4 if the number formed by its last two digits is divisible by 4.
 * Divisibility by 5: A number is divisible by 5 if its last digit is 0 or 5.
 * Divisibility by 6: A number is divisible by 6 if it is divisible by both 2 and 3 (i.e., it's even and the sum of its digits is divisible by 3).
+* Divisibility by 8: A number is divisible by 8 if the number formed by its last three digits is divisible by 8.
 * If the sum of the digits of a number is divisible by 9, then the number itself is divisible by 9. This rule is a useful shortcut to determine divisibility by 9. For example, if you have a number like 162, the sum of its digits is 1 + 6 + 2 = 9. Since 9 is divisible by 9, the number 162 is also divisible by 9. 
