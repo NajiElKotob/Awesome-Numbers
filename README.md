@@ -23,7 +23,7 @@
 -----
 
 * [The Rule of 72](https://www.investopedia.com/terms/r/ruleof72.asp)
-
+* Any natural number greater than 6 that ends with a 6 is always composite [Learn more](https://byjus.com/maths/composite-numbers/)
 -----
 
 ## Divisibility Rules
