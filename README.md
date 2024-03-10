@@ -20,13 +20,16 @@
 * π 3.14159 [What Is PI?](https://www.youtube.com/watch?v=cC0fZ_lkFpQ)
 * 2.71828 Euler's Number (e) [What's so special about Euler's number e?](https://www.youtube.com/watch?v=m2MIpDrF7Es)
 
+
+
 -----
+## Rules
 
 * [The Rule of 72](https://www.investopedia.com/terms/r/ruleof72.asp)
 * Any natural number greater than 6 that ends with a 6 is always composite [Learn more](https://byjus.com/maths/composite-numbers/)
 -----
 
-## Divisibility Rules
+### Divisibility Rules
 * Divisibility by 2: A number is divisible by 2 if its last digit is even (0, 2, 4, 6, or 8).
 * Divisibility by 3: A number is divisible by 3 if the sum of its digits is divisible by 3.
 * Divisibility by 4: A number is divisible by 4 if the number formed by its last two digits is divisible by 4.
