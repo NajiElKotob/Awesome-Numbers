@@ -27,6 +27,8 @@
 
 * [The Rule of 72](https://www.investopedia.com/terms/r/ruleof72.asp)
 * Any natural number greater than 6 that ends with a 6 is always composite [Learn more](https://byjus.com/maths/composite-numbers/)
+* [Blue-Seven Phenomenon 📺 ~24min](https://www.youtube.com/watch?v=d6iQrh2TK98) - Veritasium
+
 -----
 
 ### Divisibility Rules
