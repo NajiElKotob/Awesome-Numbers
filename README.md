@@ -16,6 +16,7 @@
 * 2520: This number is known as the least common multiple of the first ten positive integers, and it is the smallest integer that is divisible by all of the integers from 1 to 10.
 * 2821109907456: This number is known as the Moser number, and it is the smallest integer that can be expressed as the sum of two cubes in five different ways: 2821109907456 = 2342^3 + 746^3 = 2420^3 + 532^3 = 2542^3 + 300^3 = 2772^3 + 32^3 = 3062^3 + 6^3.
 * [4, 2, 1 loop](https://www.youtube.com/shorts/8fNFd2Xswjs)
+* 1.618: The golden ratio, also known as the golden number, golden proportion, or the divine proportion.
 -----
 
 * π 3.14159 [What Is PI?](https://www.youtube.com/watch?v=cC0fZ_lkFpQ)
