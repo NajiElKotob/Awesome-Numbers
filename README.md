@@ -18,6 +18,7 @@
 * [4, 2, 1 loop](https://www.youtube.com/shorts/8fNFd2Xswjs)
 * 1.618: The golden ratio, also known as the golden number, golden proportion, or the divine proportion.
 * 0.21 (42.54.43)
+* 31.1034768: 1 troy oz
 -----
 
 * π 3.14159 [What Is PI?](https://www.youtube.com/watch?v=cC0fZ_lkFpQ)
