@@ -19,6 +19,7 @@
 * 1.618: The golden ratio, also known as the golden number, golden proportion, or the divine proportion.
 * 0.21 (42.54.43)
 * 31.1034768: 1 troy oz
+* 1 Hour = 2,083.33 Years *
 -----
 
 * π 3.14159 [What Is PI?](https://www.youtube.com/watch?v=cC0fZ_lkFpQ)
